@@ -1,1 +1,3 @@
-Hello form main
+<<<<<<< HEAD
+Hello form mainm and stand
+>>>>>>> stand
